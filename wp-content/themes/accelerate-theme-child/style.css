@@ -29,6 +29,22 @@
 	background: #45ac9d;
 }
 
+.featured-work h4 {
+  text-align: center;
+}
+
+.featured-work figure {
+  margin: 2%;
+  text-align: center;
+}
+
+.featured-work figure h3 {
+  font-weight: 400;
+  line-height: 2;
+  margin-top: 0;
+}
+
+
 .blog-post {
 	width: 50%;
 	float: left;
