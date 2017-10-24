@@ -52,3 +52,37 @@
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+/** Case Study **/
+
+.case-study-sidebar {
+  float: left;
+  margin-right: 10%;
+  width: 30%;
+}
+
+.case-study-sidebar h2 {
+  font-weight: 500;
+  line-height: 1;
+}
+
+.case-study-sidebar h3, .case-study-sidebar h4 {
+  line-height: 1.5;
+  margin-top: 0;
+}
+
+.case-study-sidebar h3 {
+  color: #cccccc;
+  font-size: .75em;
+  font-weight: 200;
+}
+
+.case-study-sidebar h4 {
+  font-size: .8em;
+  font-weight: 400;
+}
+
+.case-study-imgs {
+  float: left;
+  width: 60%;
+}
