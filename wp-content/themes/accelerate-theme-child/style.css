@@ -110,3 +110,19 @@
 #case-studies-archive .case-study-imgs, #case-studies-archive .case-study-sidebar {
   margin-top: 5%;
 }
+
+/** Social Menu **/
+
+.social-media-navigation ul li {
+  background: #000;
+  border-radius: 50%;
+  color: #fff;
+  display: inline-block;
+  height: 24px;
+  text-align: center;
+  width: 24px;
+}
+
+.social-media-navigation ul li i {
+  color: #fff;
+}
