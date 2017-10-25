@@ -102,3 +102,11 @@
   float: left;
   width: 60%;
 }
+
+.case-study-imgs img {
+  width: 100%;
+}
+
+#case-studies-archive .case-study-imgs, #case-studies-archive .case-study-sidebar {
+  margin-top: 5%;
+}
