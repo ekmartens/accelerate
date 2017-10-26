@@ -1,6 +1,6 @@
 <?php
 /**
- * Template for Single Services
+ * Template for Custom Services Archive
  *
  * @package WordPress
  * @subpackage Accelerate Marketing

@@ -160,6 +160,16 @@
 
 /** About Page - Services **/
 
+#about-page-top {
+  text-align: center;
+  width: 55%;
+  margin-left: 23.5%;
+}
+
+.services-page .services-detail p {
+  text-align: left;
+}
+
 .service-image {
   padding-top: 5%;
   width: 30%;
@@ -195,12 +205,13 @@
   border-top: 1px solid #bfbfbf;
   clear: both;
   margin-top: 5%;
+  overflow:auto;
 }
 
 .about-page-cta-text {
   display: inline-block;
-  margin-left: 15%;
-  width: 40%;
+  margin-left: 20%;
+  width: 30%;
 }
 
 .about-page-cta-button {
