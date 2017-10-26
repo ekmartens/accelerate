@@ -157,3 +157,53 @@
   font-weight: 700;
   margin-top: 5%;
 }
+
+/** About Page - Services **/
+
+.service-image {
+  padding-top: 5%;
+  width: 30%;
+}
+
+.service-detail {
+  margin-top: 5%;
+  width: 60%;
+}
+
+.service-detail h2 {
+  font-weight: 400;
+}
+
+.service-group {
+  overflow: auto;
+}
+
+.service-image-left, .service-detail-right {
+  float: left;
+}
+
+.service-detail-left, .service-image-right {
+  float: left;
+}
+
+.service-detail-left {
+  margin-right: 5%;
+}
+
+
+.about-page-cta {
+  border-top: 1px solid #bfbfbf;
+  clear: both;
+  margin-top: 5%;
+}
+
+.about-page-cta-text {
+  display: inline-block;
+  margin-left: 15%;
+  width: 40%;
+}
+
+.about-page-cta-button {
+  display: inline-block;
+  width: 30%;
+}

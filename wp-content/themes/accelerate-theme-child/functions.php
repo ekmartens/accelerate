@@ -33,7 +33,7 @@
                 'singular_name' => __( 'Case Study' )
             ),
             'public' => true,
-            'has_archive' => true,
+            'has_archive' => false,
             'rewrite' => array( 'slug' => 'case-studies' ),
         )
     );
