@@ -258,3 +258,58 @@
   text-align:center;
   text-shadow: 1px 1px #000;
 }
+
+/**Twitter Feed **/
+
+#pi_simpletwittertweets-2 {
+  margin-left: 5%;
+}
+
+#pi_simpletwittertweets-2 h3 {
+  font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+  color: #a6a6a6;
+  padding-bottom: 5%;
+  text-transform: uppercase;
+}
+
+.avatar img {
+  margin-right: 2%;
+}
+
+.follow-us a {
+  padding-left: 5%;
+}
+
+/** MailChimp Sign Up Form **/
+
+#mc4wp_form_widget-2 {
+  padding-left: 5%;
+  width: 80%;
+}
+
+#mc4wp_form_widget-2 p {
+  margin-left: 5%;
+}
+
+#mc4wp_form_widget-2 .widget-title {
+  font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+  color: #a6a6a6;
+  padding-bottom: 5%;
+  text-transform: uppercase;
+}
+
+#mc4wp_form_widget-2 label {
+  margin-right: 2%;
+}
+
+#mc4wp_form_widget-2 .label-input {
+  border: 2px solid #4fac9d;
+  width: 100%;
+}
+
+#mc4wp_form_widget-2 .sb-input {
+  background: #45ac9d;
+  float: right;
+  font-size: .75em;
+  height: 40px;
+}
