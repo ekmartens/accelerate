@@ -218,3 +218,43 @@
   display: inline-block;
   width: 30%;
 }
+
+/** 404 Page **/
+
+.page-404 {
+  background: url("https://static.pexels.com/photos/373543/pexels-photo-373543.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 5%;
+}
+
+#message404 h1 {
+  color: #fff;
+  font-family: 'Press Start 2P', cursive, 'Montserrat', 'Open Sans', Arial, sans-serif;
+  font-size: 2.5em;
+  text-align: center;
+  text-shadow: 1px 1px #000;
+}
+
+#panic-button {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #ffb3b3, red); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #ffb3b3, red); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #ffb3b3, red); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #ffb3b3, red); /* Standard syntax */
+  border: 8px outset gray;
+  border-radius: 50%;
+  box-shadow: 15px 15px 20px #000;
+  height: 300px;
+  padding-top: 5%;
+  margin-left: 37%;
+  width: 300px;
+}
+
+#panic-button h2, #panic-button h3 {
+  color: #fff;
+  line-height: 1;
+  position: relative;
+  text-align:center;
+  text-shadow: 1px 1px #000;
+}

@@ -54,3 +54,8 @@
 }
 
 add_action( 'init', 'create_custom_post_types' );
+
+function accelerate_child_scripts() {
+wp_enqueue_style('accelerate-child-google-fonts','//fonts.googleapis.com/css?family=Press+Start+2P');
+}
+add_action( 'wp_enqueue_scripts', 'accelerate_child_scripts');
