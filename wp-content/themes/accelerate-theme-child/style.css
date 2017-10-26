@@ -126,3 +126,34 @@
 .social-media-navigation ul li i {
   color: #fff;
 }
+
+/** Contact Form **/
+
+.contact-half-width {
+  display: inline-block;
+  margin-top: 5%;
+  width: 48.5%;
+}
+
+.contact-name {
+  margin-right: 2%;
+}
+
+/**contact form button **/
+#nf-field-4 {
+  background: #45ac9d;
+  float: right;
+  font-weight: 400;
+  width: 30%;
+}
+
+
+.nf-form-content {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.nf-response-message p {
+  font-weight: 700;
+  margin-top: 5%;
+}
